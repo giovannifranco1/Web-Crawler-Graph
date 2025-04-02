@@ -4,6 +4,8 @@
 
 ## English
 
+## Welcome to my latest creation! This project is designed to be an advanced crawler, capable of efficiently analyzing links on a web page. It explores and maps connections up to three levels deep, generating a structured representation of the link network.
+
 ### Description
 Graph App is a modern desktop application built with Tauri, Vue.js, and D3.js for creating and visualizing graphs. This application provides an intuitive interface for graph manipulation and visualization.
 
@@ -50,6 +52,8 @@ npm run tauri build
 
 ## Português
 
+## Bem-vindo à minha mais nova criação! Este projeto foi desenvolvido para ser um crawler avançado, capaz de analisar links de uma página web com alta eficiência. Ele permite explorar e mapear conexões em até três níveis de profundidade, gerando uma representação estruturada da rede de links. Utilizei o Tauri com o Rust + vue.js para criação do projeto, Gostei bastante do resultado, ainda esta em beta mas já é possivel fazer analises para site menores.
+
 ### Descrição
 Graph App é um aplicativo desktop moderno construído com Tauri, Vue.js e D3.js para criar e visualizar gráficos. Este aplicativo fornece uma interface intuitiva para manipulação e visualização de gráficos.
 
@@ -93,3 +97,14 @@ npm run tauri build
 - `npm run build` - Constrói o aplicativo
 - `npm run preview` - Visualiza a versão de produção
 - `npm run tauri` - Executa comandos específicos do Tauri
+
+
+## Exemplos
+
+### Home
+![image](https://github.com/user-attachments/assets/d37619bb-833b-412b-91a1-0e23b4d84d52)
+
+### Graph
+![image](https://github.com/user-attachments/assets/88044889-2d40-4e48-8d25-d7a0b2a48454)
+
+
