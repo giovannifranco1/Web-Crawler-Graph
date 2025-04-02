@@ -1,4 +1,4 @@
-# Web-Crawler-Graph
+# Graph App / Aplicativo de Gráficos
 
 [English](#english) | [Português](#português)
 
